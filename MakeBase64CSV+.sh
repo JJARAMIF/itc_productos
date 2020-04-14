@@ -8,7 +8,7 @@ echo \"External ID\",\"Name\",\"Product_tmpl_id/id\",\"Video_URL\",\"Image\" > $
 while IFS=";" read f1 f2 f3 f4 ; do
 
 # recopy external ID y Encabezados
-echo -n  \"$f1\",\"$f2\",\"$f3\",$f4, >> $2
+echo -n  \"$f1\",\"$f2\",\"$f3\",\'$f4\',' >> $2
 
 #If second  column represents the key to match with the filename, please use this command
 cat $(echo ${f1} | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
