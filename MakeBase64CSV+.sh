@@ -5,7 +5,7 @@
 
 #echo \"External ID\",\"Image\" > $2
 
-while IFS=";" read f1 f2 f3 f4 f5 f6 f7 ; do
+while IFS=";" read f1 ; do
 
 # recopy external ID
 echo -n  \"$f1\", >> $2
