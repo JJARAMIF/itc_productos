@@ -1,11 +1,11 @@
 #!/bin/bash
 # Usage : MakeBase64CSV+.sh product_imagenes.csv product_base64+.csv
-# product_imagenes.csv columns are : externalID, nombre, producto, url
+# product_imagenes.csv columns are : externalID, jpg, nombre, producto, url
 # product_imagenes.csv separator MUST BE ;
 
 echo \"External ID\",\"Image\" > $2
 
-while IFS=";" read f1 f2 f3 f4 ; do
+while IFS=";" read f1 f2 f3 f4 f5 ; do
 
 # recopy external ID y Encabezados
 echo -n  \"$f1\", >> $2
