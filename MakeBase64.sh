@@ -1,13 +1,13 @@
 #!/bin/bash
 # Usage : MakeBase64.sh product_imagen.csv product_base64.csv
-# product_imagen.csv columns are : externalID, nombre, jpg
+# product_imagen.csv columns are : externalID, nombre, imagen
 # product_imagen.csv separator MUST BE ;
 
 ext=".jpg"
 
 echo \"External ID\",\"Image\" > $2
 
-while IFS=";" read f1 f2 f3; do
+while IFS=";" read f1 f2 f3 ; do
 
     if [ -f $f3$ext ]; then
 
