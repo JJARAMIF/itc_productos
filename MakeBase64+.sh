@@ -8,8 +8,8 @@ b1="_01"
 c1="-01"
 b2="_02"
 c2="-02"
-b2="_03"
-c2="-03"
+b3="_03"
+c3="-03"
 
 echo \"External ID\",\"product_tmpl_id/id\",\"name\",\"Image\" > $2
 
