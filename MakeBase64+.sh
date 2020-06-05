@@ -1,6 +1,6 @@
 #!/bin/bash
 # Usage : MakeBase64+.sh product_imagen.csv product_base64+.csv
-# product_imagen.csv columns are : externalID, jpg, nombre
+# product_imagen.csv columns are : externalID, nombre, jpg
 # product_imagen.csv separator MUST BE ;
 
 ext=".jpg"
@@ -26,56 +26,56 @@ echo \"External ID\",\"product_tmpl_id/id\",\"name\",\"Image\" > $2
 
 while IFS=";" read f1 f2 f3 ; do
 
-    if [ -f $f2$c1$ext ]; then
+    if [ -f $f3$c1$ext ]; then
        	# recopy external ID y Encabezados
-	echo -n  $f1$b1,$f1$a,$f2$c1, >> $2
+	echo -n  $f1$b1,$f1$a,$f3$c1, >> $2
 
 	# transforma a base64
-	cat $(echo ${f2}$c1 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+	cat $(echo ${f3}$c1 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 
 	#Carrier return at end of line
 	echo  >> $2
     fi
 
-    if [ -f $f2$c2$ext ]; then
-	echo -n  $f1$b2,$f1$a,$f2$c2, >> $2
-	cat $(echo ${f2}$c2 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+    if [ -f $f3$c2$ext ]; then
+	echo -n  $f1$b2,$f1$a,$f3$c2, >> $2
+	cat $(echo ${f3}$c2 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 	echo  >> $2
     fi
 
-    if [ -f $f2$c3$ext ]; then
-	echo -n  $f1$b3,$f1$a,$f2$c3, >> $2
-	cat $(echo ${f2}$c3 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+    if [ -f $f3$c3$ext ]; then
+	echo -n  $f1$b3,$f1$a,$f3$c3, >> $2
+	cat $(echo ${f3}$c3 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 	echo  >> $2
     fi
 
-    if [ -f $f2$c4$ext ]; then
-	echo -n  $f1$b4,$f1$a,$f2$c4, >> $2
-	cat $(echo ${f2}$c4 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+    if [ -f $f3$c4$ext ]; then
+	echo -n  $f1$b4,$f1$a,$f3$c4, >> $2
+	cat $(echo ${f3}$c4 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 	echo  >> $2
     fi
 
-    if [ -f $f2$c5$ext ]; then
-	echo -n  $f1$b5,$f1$a,$f2$c5, >> $2
-	cat $(echo ${f2}$c5 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+    if [ -f $f3$c5$ext ]; then
+	echo -n  $f1$b5,$f1$a,$f3$c5, >> $2
+	cat $(echo ${f3}$c5 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 	echo  >> $2
     fi
 
-    if [ -f $f2$c6$ext ]; then
-	echo -n  $f1$b6,$f1$a,$f2$c6, >> $2
-	cat $(echo ${f2}$c6 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+    if [ -f $f3$c6$ext ]; then
+	echo -n  $f1$b6,$f1$a,$f3$c6, >> $2
+	cat $(echo ${f3}$c6 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 	echo  >> $2
     fi
 
-    if [ -f $f2$c7$ext ]; then
-	echo -n  $f1$b7,$f1$a,$f2$c7, >> $2
-	cat $(echo ${f2}$c7 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+    if [ -f $f3$c7$ext ]; then
+	echo -n  $f1$b7,$f1$a,$f3$c7, >> $2
+	cat $(echo ${f3}$c7 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 	echo  >> $2
     fi
 
-    if [ -f $f2$c8$ext ]; then
-	echo -n  $f1$b8,$f1$a,$f2$c8, >> $2
-	cat $(echo ${f2}$c8 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+    if [ -f $f3$c8$ext ]; then
+	echo -n  $f1$b8,$f1$a,$f3$c8, >> $2
+	cat $(echo ${f3}$c8 | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 	echo  >> $2
     fi
 
