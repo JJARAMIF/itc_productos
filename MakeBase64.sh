@@ -3,16 +3,22 @@
 # product_imagen.csv columns are : externalID, jpg, nombre
 # product_imagen.csv separator MUST BE ;
 
+ext=".jpg"
+
 echo \"External ID\",\"Image\" > $2
 
 while IFS=";" read f1 f2 f3; do
 
-# recopy external ID
-echo -n $f1, >> $2
+    if [ -f $f2$ext ]; then
 
-#If second  column represents the key to match with the filename, please use this command
-cat $(echo ${f2} | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+	# recopy external ID
+	echo -n $f1, >> $2
 
-#Carrier return at end of line
-echo  >> $2
+	#If second  column represents the key to match with the filename, please use this command
+	cat $(echo ${f2} | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+
+	#Carrier return at end of line
+	echo  >> $2
+    fi
+
 done < $1
