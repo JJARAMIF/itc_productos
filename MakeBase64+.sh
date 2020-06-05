@@ -8,9 +8,9 @@ echo \"External ID\",\"product_tmpl_id/id\",\"name\",\"Image\" > $2
 while IFS=";" read f1 f2 f3 ; do
 
 # recopy external ID y Encabezados
-echo -n  \"$f1\"_01, \"$f1\", \"$f2\"-01, >> $2
+echo -n  \"$f1\"_01, \"$f1\", \"$f2\"_01, >> $2
 
-cat $(echo ${f2-01} | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
+cat $(echo ${f2_01} | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
 
 #Carrier return at end of line
 echo  >> $2
