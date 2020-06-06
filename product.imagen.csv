@@ -1,115 +1,115 @@
-producto_20100_01001;iphone-8;Apple - iPhone 8 64GB
-producto_20100_01002;iphone-8;Apple - iPhone 8 128GB
-producto_20100_01003;iphone-8+;Apple - iPhone 8+ 64
-producto_20100_01004;iphone-8+;Apple - iPhone 8+ 128
-producto_20100_01005;iphone-xr;Apple - iPhone XR 128GB
-producto_20100_01006;iphone-11;Apple - iPhone 11 64Gb
-producto_20100_01007;iphone-11;Apple - iPhone 11 128Gb
-producto_20100_01008;iphone-11pro;Apple - iPhone 11 Pro 64GB
-producto_20100_01009;iphone-11pro;Apple - iPhone 11 Pro 256GB
-producto_20100_01010;iphone-11promax;Apple - iPhone 11 Pro Max 64GB
-producto_20100_01011;iphone-11promax;Apple - iPhone 11 Pro Max 256GB
-producto_20100_02001;samsung-j2core;Samsung - Galaxy J2 Core
-producto_20100_02002;samsung-a01;Samsung - Galaxy A01
-producto_20100_02003;samsung-a10s;Samsung - Galaxy A10s
-producto_20100_02004;samsung-a20s;Samsung - Galaxy A20s
-producto_20100_02005;samsung-a30s;Samsung - Galaxy A30s
-producto_20100_02006;samsung-a51;Samsung - Galaxy A51
-producto_20100_02007;samsung-a70;Samsung - Galaxy A70
-producto_20100_02008;samsung-a71;Samsung - Galaxy A71
-producto_20100_02009;samsung-s10;Samsung - Galaxy s10
-producto_20100_02010;samsung-s10+;Samsung - Galaxy s10+
-producto_20100_02011;samsung-note10+;Samsung - Galaxy Note10+
-producto_20100_02012;samsung-s20;Samsung - Galaxy s20
-producto_20100_02013;samsung-s20+;Samsung - Galaxy s20+
-producto_20100_02014;samsung-s20ultra;Samsung - Galaxy s20 Ultra
-producto_20100_03001;huawei-y52018;Huawei - Y5 2018
-producto_20100_03002;huawei-y62016;Huawei - Y6 2019
-producto_20100_03003;huawei-y92019;Huawei - Y9 2019
-producto_20100_03004;huawei-y9prime;Huawei - Y9 Prime
-producto_20100_03005;huawei-p30lite;Huawei - P30 Lite 128GB
-producto_20100_03006;xiaomi-8a;Xiaomi - Remi 8A 32GB
-producto_20100_03007;xiaomi-mia3;Xiaomi - Mi A3 64GB
-producto_20100_03008;xiaomi-note8;Xiaomi - Redmi Note 8 64GB
-producto_20100_03009;xiaomi-note8;Xiaomi - Redmi Note 8 128GB
-producto_20100_03010;xiaomi-note8pro;Xiaomi - Redmi Note 8 Pro 64GB
-producto_20100_03011;xiaomi-note8pro;Xiaomi - Redmi Note 8 Pro 128GB
-producto_20100_03012;xiaomi-mi9lite;Xiaomi - Mi 9 Lite 128GB
-producto_20100_03013;xiaomi-mi9t;Xiaomi - Mi 9T 128GB
+producto_20100_01001;Apple - iPhone 8 64GB;iphone-8
+producto_20100_01002;Apple - iPhone 8 128GB;iphone-8
+producto_20100_01003;Apple - iPhone 8+ 64;iphone-8+
+producto_20100_01004;Apple - iPhone 8+ 128;iphone-8+
+producto_20100_01005;Apple - iPhone XR 128GB;iphone-xr
+producto_20100_01006;Apple - iPhone 11 64Gb;iphone-11
+producto_20100_01007;Apple - iPhone 11 128Gb;iphone-11
+producto_20100_01008;Apple - iPhone 11 Pro 64GB;iphone-11pro
+producto_20100_01009;Apple - iPhone 11 Pro 256GB;iphone-11pro
+producto_20100_01010;Apple - iPhone 11 Pro Max 64GB;iphone-11promax
+producto_20100_01011;Apple - iPhone 11 Pro Max 256GB;iphone-11promax
+producto_20100_02001;Samsung - Galaxy J2 Core;samsung-j2core
+producto_20100_02002;Samsung - Galaxy A01;samsung-a01
+producto_20100_02003;Samsung - Galaxy A10s;samsung-a10s
+producto_20100_02004;Samsung - Galaxy A20s;samsung-a20s
+producto_20100_02005;Samsung - Galaxy A30s;samsung-a30s
+producto_20100_02006;Samsung - Galaxy A51;samsung-a51
+producto_20100_02007;Samsung - Galaxy A70;samsung-a70
+producto_20100_02008;Samsung - Galaxy A71;samsung-a71
+producto_20100_02009;Samsung - Galaxy s10;samsung-s10
+producto_20100_02010;Samsung - Galaxy s10+;samsung-s10+
+producto_20100_02011;Samsung - Galaxy Note10+;samsung-note10+
+producto_20100_02012;Samsung - Galaxy s20;samsung-s20
+producto_20100_02013;Samsung - Galaxy s20+;samsung-s20+
+producto_20100_02014;Samsung - Galaxy s20 Ultra;samsung-s20ultra
+producto_20100_03001;Huawei - Y5 2018;huawei-y52018
+producto_20100_03002;Huawei - Y6 2019;huawei-y62016
+producto_20100_03003;Huawei - Y9 2019;huawei-y92019
+producto_20100_03004;Huawei - Y9 Prime;huawei-y9prime
+producto_20100_03005;Huawei - P30 Lite 128GB;huawei-p30lite
+producto_20100_03006;Xiaomi - Remi 8A 32GB;xiaomi-8a
+producto_20100_03007;Xiaomi - Mi A3 64GB;xiaomi-mia3
+producto_20100_03008;Xiaomi - Redmi Note 8 64GB;xiaomi-note8
+producto_20100_03009;Xiaomi - Redmi Note 8 128GB;xiaomi-note8
+producto_20100_03010;Xiaomi - Redmi Note 8 Pro 64GB;xiaomi-note8pro
+producto_20100_03011;Xiaomi - Redmi Note 8 Pro 128GB;xiaomi-note8pro
+producto_20100_03012;Xiaomi - Mi 9 Lite 128GB;xiaomi-mi9lite
+producto_20100_03013;Xiaomi - Mi 9T 128GB;xiaomi-mi9t
 ;;
-producto_10201_01001;macbook-12;"Apple - Macbook 12"" Laptop - Intel Core i5 - Memoria 8GB - SSD 512GB"
-producto_10201_01002;macbook-air;"Apple - Macbook Air 13.3"" Laptop - Intel Core i5 - Memoria 8GB - SSD 128GB"
-producto_10201_01003;macbook-air;"Apple - Macbook Air 13.3"" Laptop - Intel Core i5 - Memoria 8GB - SSD 256GB"
-producto_10201_01004;macbook-pro2019;Apple - Macbook Pro 13 Laptop - Intel Core i5 - Memoria 8GB - SSD 128GB
-producto_10201_01005;macbook-pro2019;Apple - Macbook Pro 13 Laptop - Intel Core i5 - Memoria 8GB - SSD 256GB
-producto_10201_01006;macbook-pro2019;Apple - Macbook Pro 13 Laptop - Intel Core i7 - Memoria 8GB - SSD 256GB
+producto_10201_01001;"Apple - Macbook 12"" Laptop - Intel Core i5 - Memoria 8GB - SSD 512GB";macbook-12
+producto_10201_01002;"Apple - Macbook Air 13.3"" Laptop - Intel Core i5 - Memoria 8GB - SSD 128GB";macbook-air
+producto_10201_01003;"Apple - Macbook Air 13.3"" Laptop - Intel Core i5 - Memoria 8GB - SSD 256GB";macbook-air
+producto_10201_01004;Apple - Macbook Pro 13 Laptop - Intel Core i5 - Memoria 8GB - SSD 128GB;macbook-pro2019
+producto_10201_01005;Apple - Macbook Pro 13 Laptop - Intel Core i5 - Memoria 8GB - SSD 256GB;macbook-pro2019
+producto_10201_01006;Apple - Macbook Pro 13 Laptop - Intel Core i7 - Memoria 8GB - SSD 256GB;macbook-pro2019
 ;;
-producto_10201_02001;dell-i3493;"Dell - Inspiron 14"" Laptop - Intel Core i3 - Memoria 4GB - HD 1TB"
-producto_10201_02002;dell-i3493;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 4GB - SSD 128GB"
-producto_10201_02003;dell-i3493;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 12Gb - HD 1TB + SSD 128Gb"
-producto_10201_02004;dell-i3493s;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 256Gb"
-producto_10201_02005;;"Dell - Vostro 15,6"" Laptop - Intel Core i5 - Memoria 4Gb - HD 1TB - Video AMD 2GB"
-producto_10201_02006;dell-i7373;Dell - Inspiron 2-in-1 13.3 Touch Laptop - Intel Core i5 - Memoria 8Gb - SSD 256Gb
-producto_10201_02007;dell-i5593;"Dell - Inspiron 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 256GB - Video MX 2GB"
-producto_10201_02008;dell-i5593;"Dell - Inspiron 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video MX 2GB"
-producto_10201_02009;dell-i5593;"Dell - Inspiron 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video MX 4GB"
-producto_10201_02010;dell-g3;"Dell - G3 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video GTX 6GB"
-producto_10201_02011;dell-g3;"Dell - G3 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video GTX 6GB"
-producto_10201_02012;alienware-15r4;"Alienware - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB"
-producto_10201_02013;dell-g5;"Dell - G5 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1Tb + SSD 182GB - Video RTX 6GB"
-producto_10201_02014;dell-g5;"Dell - G5 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 6GB"
-producto_10201_02015;dell-g7;"Dell - G7 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB"
-producto_10201_02016;dell-g7;"Dell - G7 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video RTX 6GB"
+producto_10201_02001;"Dell - Inspiron 14"" Laptop - Intel Core i3 - Memoria 4GB - HD 1TB";dell-i3493
+producto_10201_02002;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 4GB - SSD 128GB";dell-i3493
+producto_10201_02003;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 12Gb - HD 1TB + SSD 128Gb";dell-i3493
+producto_10201_02004;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 256Gb";dell-i3493s
+producto_10201_02005;"Dell - Vostro 15,6"" Laptop - Intel Core i5 - Memoria 4Gb - HD 1TB - Video AMD 2GB";
+producto_10201_02006;Dell - Inspiron 2-in-1 13.3 Touch Laptop - Intel Core i5 - Memoria 8Gb - SSD 256Gb;dell-i7373
+producto_10201_02007;"Dell - Inspiron 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 256GB - Video MX 2GB";dell-i5593
+producto_10201_02008;"Dell - Inspiron 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video MX 2GB";dell-i5593
+producto_10201_02009;"Dell - Inspiron 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video MX 4GB";dell-i5593
+producto_10201_02010;"Dell - G3 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video GTX 6GB";dell-g3
+producto_10201_02011;"Dell - G3 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video GTX 6GB";dell-g3
+producto_10201_02012;"Alienware - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB";alienware-15r4
+producto_10201_02013;"Dell - G5 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1Tb + SSD 182GB - Video RTX 6GB";dell-g5
+producto_10201_02014;"Dell - G5 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 6GB";dell-g5
+producto_10201_02015;"Dell - G7 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB";dell-g7
+producto_10201_02016;"Dell - G7 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video RTX 6GB";dell-g7
 ;;
-producto_10201_03001;lenovo-s145;"Lenovo - Ideapad 14"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB"
-producto_10201_03002;lenovo-s145;"Lenovo - Ideapad 15,6"" Laptop - Intel Celeron - Memoria 4Gb - SSD 128GB"
-producto_10201_03003;lenovo-s145;"Lenovo - Ideapad 14"" Laptop - Intel Core i3 - Memoria 4Gb - HD 1TB"
-producto_10201_03004;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i3 - Memoria 8Gb - SSD 128GB"
-producto_10201_03005;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 128GB"
-producto_10201_03006;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - HD 1TB - VIDEO MX 2GB"
-producto_10201_03007;;"Lenovo - Flex 2-in-1 14"" Touch Laptop - Intel Core i5 - Memoria 8Gb - SSD 512Gb - Video MX 2GB"
-producto_10201_03008;lenovo-s145;"Lenovo - Ideapad 14"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
-producto_10201_03009;lenovo-s145;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
-producto_10201_03010;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video MX 2GB"
-producto_10201_03011;lenovo-l340;"Lenovo - Ideapad 15,6"" Gaming Laptop - Intel Core i5 - Memoria 8Gb - SSD 256GB - Video GTX 3GB"
-producto_10201_03012;lenovo-l340;"Lenovo - Ideapad 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video GTX 4GB"
-producto_10201_03013;lenovo-y545;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 4GB"
-producto_10201_03014;lenovo-y545;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 512GB - Video GTX 6GB"
-producto_10201_03015;lenovo-y545;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 6GB"
-producto_10201_03016;lenovo-y740;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 6GB"
+producto_10201_03001;"Lenovo - Ideapad 14"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB";lenovo-s145
+producto_10201_03002;"Lenovo - Ideapad 15,6"" Laptop - Intel Celeron - Memoria 4Gb - SSD 128GB";lenovo-s145
+producto_10201_03003;"Lenovo - Ideapad 14"" Laptop - Intel Core i3 - Memoria 4Gb - HD 1TB";lenovo-s145
+producto_10201_03004;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i3 - Memoria 8Gb - SSD 128GB";lenovo-s340
+producto_10201_03005;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 128GB";lenovo-s340
+producto_10201_03006;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - HD 1TB - VIDEO MX 2GB";lenovo-s340
+producto_10201_03007;"Lenovo - Flex 2-in-1 14"" Touch Laptop - Intel Core i5 - Memoria 8Gb - SSD 512Gb - Video MX 2GB";
+producto_10201_03008;"Lenovo - Ideapad 14"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB";lenovo-s145
+producto_10201_03009;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB";lenovo-s145
+producto_10201_03010;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video MX 2GB";lenovo-s340
+producto_10201_03011;"Lenovo - Ideapad 15,6"" Gaming Laptop - Intel Core i5 - Memoria 8Gb - SSD 256GB - Video GTX 3GB";lenovo-l340
+producto_10201_03012;"Lenovo - Ideapad 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video GTX 4GB";lenovo-l340
+producto_10201_03013;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 4GB";lenovo-y545
+producto_10201_03014;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 512GB - Video GTX 6GB";lenovo-y545
+producto_10201_03015;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 6GB";lenovo-y545
+producto_10201_03016;"Lenovo - Legion 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 6GB";lenovo-y740
 ;;
-producto_10201_04001;;"Asus - VivoBook 14"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB"
-producto_10201_04002;;"Asus - VivoBook 15,6"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB"
-producto_10201_04003;;"Asus - VivoBook 14"" Laptop - Intel Core i5 - Memoria 8Gb - HD 1TB - Video MX 2GB"
-producto_10201_04004;asus-x509;"Asus - VivoBook 15,6"" Laptop - Intel Core i5 - Memoria 4Gb - HD 1TB - Video MX 2GB"
-producto_10201_04005;asus-x509;"Asus - VivoBook 15,6"" Laptop - Intel Core i5 - Memoria 4Gb - SSD 512GB - Video MX 2GB"
-producto_10201_04006;;"Asus - VivoBook 15,6"" Laptop - Intel Core i7 - Memoria 12Gb - SSD 256GB"
-producto_10201_04007;;"Asus - VivoBook 15,6"" Laptop - AMD Ryzen 5 - Memoria 8Gb - SSD 512GB - Video RX 4GB"
-producto_10201_04008;asus-g531;"Asus - ROG 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 512GB - Video GTX 4GB"
-producto_10201_04009;asus-505gt;"Asus - TUF 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 512GB - Video GTX 4GB"
-producto_10201_04010;;"Asus - TUF 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB"
-producto_10201_04011;asus-gm501gm;"Asus - Zephyrus 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB"
-producto_10201_04012;asus-g731gt;"Asus - ROG 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video GTX 6GB"
-producto_10201_04013;asus-gu502gv;"Asus - Zephyrus 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 1TB - Video RTX 6GB"
-producto_10201_04014;asus-gl704gw;"Asus - ROG Strix Scar II 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 8GB"
-producto_10201_04015;asus-g731gw;"Asus - ROG Strix Scar III 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 1TB - Video RTX 8GB"
+producto_10201_04001;"Asus - VivoBook 14"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB";
+producto_10201_04002;"Asus - VivoBook 15,6"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB";
+producto_10201_04003;"Asus - VivoBook 14"" Laptop - Intel Core i5 - Memoria 8Gb - HD 1TB - Video MX 2GB";
+producto_10201_04004;"Asus - VivoBook 15,6"" Laptop - Intel Core i5 - Memoria 4Gb - HD 1TB - Video MX 2GB";asus-x509
+producto_10201_04005;"Asus - VivoBook 15,6"" Laptop - Intel Core i5 - Memoria 4Gb - SSD 512GB - Video MX 2GB";asus-x509
+producto_10201_04006;"Asus - VivoBook 15,6"" Laptop - Intel Core i7 - Memoria 12Gb - SSD 256GB";
+producto_10201_04007;"Asus - VivoBook 15,6"" Laptop - AMD Ryzen 5 - Memoria 8Gb - SSD 512GB - Video RX 4GB";
+producto_10201_04008;"Asus - ROG 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 512GB - Video GTX 4GB";asus-g531
+producto_10201_04009;"Asus - TUF 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 512GB - Video GTX 4GB";asus-505gt
+producto_10201_04010;"Asus - TUF 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB";
+producto_10201_04011;"Asus - Zephyrus 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB";asus-gm501gm
+producto_10201_04012;"Asus - ROG 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video GTX 6GB";asus-g731gt
+producto_10201_04013;"Asus - Zephyrus 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 1TB - Video RTX 6GB";asus-gu502gv
+producto_10201_04014;"Asus - ROG Strix Scar II 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 8GB";asus-gl704gw
+producto_10201_04015;"Asus - ROG Strix Scar III 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 1TB - Video RTX 8GB";asus-g731gw
 ;;
-producto_10201_05001;msi-gf75;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video GTX 6GB"
-producto_10201_05002;msi-gf65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video GTX 6GB"
-producto_10201_05003;msi-gf65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 512GB - Video RTX 6GB"
-producto_10201_05004;msi-gl65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 32Gb - SSD 512GB - Video GTX 6GB"
-producto_10201_05005;mis-gl75;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB - SSD 256GB - Video GTX 6GB"
-producto_10201_05006;msi-gs65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 32Gb - SSD 512GB - Video RTX  6GB"
+producto_10201_05001;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video GTX 6GB";msi-gf75
+producto_10201_05002;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video GTX 6GB";msi-gf65
+producto_10201_05003;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 512GB - Video RTX 6GB";msi-gf65
+producto_10201_05004;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 32Gb - SSD 512GB - Video GTX 6GB";msi-gl65
+producto_10201_05005;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB - SSD 256GB - Video GTX 6GB";mis-gl75
+producto_10201_05006;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 32Gb - SSD 512GB - Video RTX  6GB";msi-gs65
 ;;
-producto_10201_06001;;Acer - Predator Gaming Laptop - Intel Core i7 - Memoria 16GB - SSD 256GB - Video GTX 6GB
+producto_10201_06001;Acer - Predator Gaming Laptop - Intel Core i7 - Memoria 16GB - SSD 256GB - Video GTX 6GB;
 ;;
-producto_10201_07001;;"HP - Pavillion X360 14"" 2-in-1 Laptop - Intel Core i3 - Memoria 4GB - HD 500GB"
-producto_10201_07002;;"HP - 15,6""  Laptop - Celeron N3060 - Memoria 4GB - HD 500GB"
-producto_10201_07003;;"HP - 15,6""  Laptop - Intel Core i3 - Memoria 4GB - HD 1TB"
+producto_10201_07001;"HP - Pavillion X360 14"" 2-in-1 Laptop - Intel Core i3 - Memoria 4GB - HD 500GB";
+producto_10201_07002;"HP - 15,6""  Laptop - Celeron N3060 - Memoria 4GB - HD 500GB";
+producto_10201_07003;"HP - 15,6""  Laptop - Intel Core i3 - Memoria 4GB - HD 1TB";
 ;;
-producto_10202_01001;lenovo-a340;"Lenovo - 21.5"" AIO - AMD A6 - Memoria 4Gb - HD 1TB"
-producto_10202_01002;lenovo-a340;"Lenovo - 21.5"" AIO - Intel Core i3 - Memoria 4Gb - HD 1TB"
-producto_10202_01003;lenovo-a340;"Lenovo - 23,8"" AIO - Intel Core i5 - Memoria 4Gb - HD 1TB"
-producto_10202_01004;lenovo-a540;"Lenovo - 23,8"" AIO - Intel Core i7 - Memoria 8Gb - HD 1TB"
+producto_10202_01001;"Lenovo - 21.5"" AIO - AMD A6 - Memoria 4Gb - HD 1TB";lenovo-a340
+producto_10202_01002;"Lenovo - 21.5"" AIO - Intel Core i3 - Memoria 4Gb - HD 1TB";lenovo-a340
+producto_10202_01003;"Lenovo - 23,8"" AIO - Intel Core i5 - Memoria 4Gb - HD 1TB";lenovo-a340
+producto_10202_01004;"Lenovo - 23,8"" AIO - Intel Core i7 - Memoria 8Gb - HD 1TB";lenovo-a540
 ;;
 FIN;;
