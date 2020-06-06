@@ -15,11 +15,10 @@ echo \"External ID\",\"product_tmpl_id/id\",\"name\",\"Image\" > $2
 
 while IFS=";" read f1 f2 f3 ; do
 
-
 	while [ $NUM -le 10 ]; do
     
+    		b=$b$NUM
     		c=$c$NUM
-    		b=$c$NUM
     		
 		if [ -f $f2$c$ext ]; then
        			
