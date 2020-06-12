@@ -93,13 +93,15 @@ producto_10201_04012;asus-g731gt;"Asus - ROG 17,3"" Gaming Laptop - Intel Core i
 producto_10201_04013;asus-gu502gv;"Asus - Zephyrus 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 1TB - Video RTX 6GB"
 producto_10201_04014;asus-gl704gw;"Asus - ROG Strix Scar II 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 8GB"
 producto_10201_04015;asus-g731gw;"Asus - ROG Strix Scar III 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 1TB - Video RTX 8GB"
+producto_10201_04016;asus-gl703gs;Asus - ROG Strix Scar II
 ;;
 producto_10201_05001;msi-gf75;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video GTX 6GB"
 producto_10201_05002;msi-gf65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 256GB - Video GTX 6GB"
 producto_10201_05003;msi-gf65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - SSD 512GB - Video RTX 6GB"
 producto_10201_05004;msi-gl65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 32Gb - SSD 512GB - Video GTX 6GB"
-producto_10201_05005;mis-gl75;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB - SSD 256GB - Video GTX 6GB"
+producto_10201_05005;msi-gl75;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB - SSD 256GB - Video GTX 6GB"
 producto_10201_05006;msi-gs65;"MSI - 15,6"" Gaming Laptop - Intel Core i7 - Memoria 32Gb - SSD 512GB - Video RTX  6GB"
+producto_10201_05007;msi-ge75;MSI RTX 2060 17p
 ;;
 producto_10201_06001;;Acer - Predator Gaming Laptop - Intel Core i7 - Memoria 16GB - SSD 256GB - Video GTX 6GB
 ;;
