@@ -4,7 +4,6 @@ producto_100003;macbook-air;"Apple - Macbook Air 13.3"" Laptop - Intel Core i5 -
 producto_100004;macbook-pro2019;Apple - Macbook Pro 13 Laptop - Intel Core i5 - Memoria 8GB - SSD 128GB
 producto_100005;macbook-pro2019;Apple - Macbook Pro 13 Laptop - Intel Core i5 - Memoria 8GB - SSD 256GB
 producto_100006;macbook-pro2019;Apple - Macbook Pro 13 Laptop - Intel Core i7 - Memoria 8GB - SSD 256GB
-producto_100195;dell-i3582;"Dell - Inspiron 15,6"" Laptop - Intel Celeron - Memoria 4Gb - HD 500GB"
 producto_100007;dell-i3493;"Dell - Inspiron 14"" Laptop - Intel Core i3 - Memoria 4GB - HD 1TB"
 producto_100008;dell-i3493;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 4GB - SSD 128GB"
 producto_100009;dell-i3493;"Dell - Inspiron 14"" Laptop - Intel Core i5 - Memoria 12Gb - HD 1TB + SSD 128Gb"
@@ -21,14 +20,14 @@ producto_100019;dell-g5;"Dell - G5 15,6"" Gaming Laptop - Intel Core i7 - Memori
 producto_100020;dell-g5;"Dell - G5 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - SSD 512GB - Video RTX 6GB"
 producto_100021;dell-g7;"Dell - G7 15,6"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video GTX 6GB"
 producto_100022;dell-g7;"Dell - G7 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB + SSD 256GB - Video RTX 6GB"
-producto_100023;lenovo-s145;"Lenovo - Ideapad 14"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB"
-producto_100024;lenovo-s145;"Lenovo - Ideapad 15,6"" Laptop - Intel Celeron - Memoria 4Gb - SSD 128GB"
-producto_100025;lenovo-s145;"Lenovo - Ideapad 14"" Laptop - Intel Core i3 - Memoria 4Gb - HD 1TB"
+producto_100023;lenovo-s145-14;"Lenovo - Ideapad 14"" Laptop - Intel N4000 - Memoria 4Gb - HD 1TB"
+producto_100024;lenovo-s145-15;"Lenovo - Ideapad 15,6"" Laptop - Intel Celeron - Memoria 4Gb - SSD 128GB"
+producto_100025;lenovo-s145-14;"Lenovo - Ideapad 14"" Laptop - Intel Core i3 - Memoria 4Gb - HD 1TB"
 producto_100026;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i3 - Memoria 8Gb - SSD 128GB"
 producto_100027;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 128GB"
 producto_100028;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i5 - Memoria 8Gb - HD 1TB - VIDEO MX 2GB"
-producto_100030;lenovo-s145;"Lenovo - Ideapad 14"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
-producto_100031;lenovo-s145;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
+producto_100030;lenovo-s145-14;"Lenovo - Ideapad 14"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
+producto_100031;lenovo-s145-15;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
 producto_100032;lenovo-s340;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video MX 2GB"
 producto_100033;lenovo-l340;"Lenovo - Ideapad 15,6"" Gaming Laptop - Intel Core i5 - Memoria 8Gb - SSD 256GB - Video GTX 3GB"
 producto_100034;lenovo-l340;"Lenovo - Ideapad 15,6"" Gaming Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB + SSD 128GB - Video GTX 4GB"
@@ -61,10 +60,13 @@ producto_100062;;"HP - 15,6""  Laptop - Celeron N3060 - Memoria 4GB - HD 500GB"
 producto_100063;;"HP - 15,6""  Laptop - Intel Core i3 - Memoria 4GB - HD 1TB"
 producto_100189;msi-ge75;"MSI - 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB - SSD 512GB - Video RTX 6GB"
 producto_100190;asus-gl703gs;"Asus - ROG 17,3"" Gaming Laptop - Intel Core i7 - Memoria 16Gb - HD 1TB - SSD 256GB - Video GTX 6GB (Obsequio Mouse Asus Gladius II)"
-producto_100191;lenovo-s145;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
-producto_100192;lenovo-s145;"Lenovo - Ideapad 14"" Laptop - Intel Core i7 - Memoria 8Gb - HD 1TB"
 producto_100193;lenovo-s340-13;"Lenovo - Ideapad 13,3"" Laptop - Intel Core i5 - Memoria 8Gb - SSD 256GB"
 producto_100194;dell-v3490;"Dell - Vostro 14"" Laptop - Intel Core i3 - Memoria 4Gb - HD 1TB"
+producto_100195;dell-i3582;"Dell - Inspiron 15,6"" Laptop - Intel Celeron - Memoria 4Gb - HD 500GB"
+producto_100196;dell-i3493;"Dell - Inspiron 14"" Laptop - Intel Core i3 - Memoria 4Gb - SSD 128GB"
+producto_100197;lenovo-v15;"Lenovo - Ideapad 15,6"" Laptop - Intel Core i3 - Memoria 8Gb - SSD 256GB"
+producto_100198;lenovo-330;"Lenovo - Ideapad 15,6"" Laptop - Intel Celeron - Memoria 4Gb - HD 1TB"
+;;
 producto_100117;iphone-8;Apple - iPhone 8 64GB
 producto_100118;iphone-8;Apple - iPhone 8 128GB
 producto_100119;iphone-8+;Apple - iPhone 8+ 64
