@@ -9,7 +9,9 @@ echo \"External ID\",\"Image\",\"value_ids/id\" > $2
 
 while IFS=";" read f1 f2 f3 f4 ; do
 	
-	echo >> $2
+    if [ "$f4" <> "" ]; then
+	echo $f4 > $2
+    fi
 
     #if [ -f $f2$ext ]; then
 
