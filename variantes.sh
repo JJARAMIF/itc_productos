@@ -8,7 +8,7 @@ ali="_atribute_line"
 aid="product_attribute_01"
 ava="product_attribute_value_01_"
 
-echo \"product_tmpl_id/id\",\"name\",\"id\",\"attribute_id/id\",\"value_ids/id\" > $2
+echo \"product_tmpl_id/id\"";"\"name\"";"\"id\"";"\"attribute_id/id\"";"\"value_ids/id\" > $2
 
 while IFS=";" read f1 f2 f3 f4 ; do
 
@@ -16,7 +16,7 @@ while IFS=";" read f1 f2 f3 f4 ; do
 
     if (( ${#f4} > 1 )); then
 
-	echo -n $f1$ptm,$f2,$f1$ali,$aid, >> $2
+	echo -n $f1$ptm";"$f2";"$f1$ali";"$aid";" >> $2
 	bakIFS=$IFS
 	IFS="-"
 
