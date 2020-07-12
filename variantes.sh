@@ -10,7 +10,7 @@ ava="product_attribute_value_01_"
 
 echo \"product_tmpl_id/id\"";"\"name\"";"\"id\"";"\"attribute_id/id\"";"\"value_ids/id\" > $2
 
-while IFS=";" read f1 f2 f3 f4 ; do
+while IFS=";" read f1 f2 f3 f4; do
 
     cad=""
 
@@ -18,10 +18,13 @@ while IFS=";" read f1 f2 f3 f4 ; do
 
 	echo -n $f1$ptm";"$f2";"$f1$ali";"$aid";" >> $2
 	bakIFS=$IFS
-	IFS="-"
 
-	for item in $f4 ; do
-	    case $item in
+	echo $f4 "hola" 
+	while IFS="-" read -ra color; do
+
+	for item in "${color[@]}"; do
+
+	    case "$item" in
 		"ne") cad=$cad$ava"01,";;
 		"gr") cad=$cad$ava"02,";;
 		"pl") cad=$cad$ava"03,";;
@@ -36,6 +39,8 @@ while IFS=";" read f1 f2 f3 f4 ; do
 		*)    echo No hay el color $item;;
 	    esac
 	done
+
+	done <<< $f4
 
 	IFS=$bakIFS
 
