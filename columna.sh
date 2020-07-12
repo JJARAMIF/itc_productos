@@ -5,7 +5,7 @@
 
 while IFS=";" read f1 f2 f3 f4 ; do
 
-    echo -n $f1";"$f2";"$f3";"$f4";" >> $2
-    echo "FIN" >> $2
+    echo -n $f1";"$f2";"$f3";"$f4";fin" >> $2
+    echo >> $2
 
 done < $1
