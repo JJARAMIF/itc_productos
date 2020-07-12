@@ -4,7 +4,7 @@
 # productos.csv separator MUST BE ;
 
 ptm="_product_template"
-ali="_atribute_line"
+ali="_atribute_line_01"
 aid="product_attribute_01"
 ava="product_attribute_value_01_"
 
