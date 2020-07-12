@@ -1,6 +1,6 @@
 #!/bin/bash
 # Usage : MakeBase64+.sh productos.csv product_base64+.csv
-# productos.csv columns are : externalID, nombre, jpg, color
+# productos.csv columns are : id, nombre, jpg, color
 # productos.csv separator MUST BE ;
 
 

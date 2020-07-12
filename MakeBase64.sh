@@ -1,7 +1,7 @@
 #!/bin/bash
-# Usage : MakeBase64.sh product_imagen.csv product_base64.csv
-# product_imagen.csv columns are : externalID, nombre, jpg, color
-# product_imagen.csv separator MUST BE ;
+# Usage : MakeBase64.sh productos.csv product_base64.csv
+# productos.csv columns are : id, nombre, jpg, color
+# productos.csv separator MUST BE ;
 
 ext=".jpg"
 

@@ -1,7 +1,7 @@
 #!/bin/bash
-# Usage : variantes.sh product.variantes.csv variantes.csv
-# product.variantes.csv columns are : productID, nombre, jpg, color
-# variantes.csv separator MUST BE ;
+# Usage : variantes.sh productos.csv product.template.attribute.line.csv
+# productos.csv columns are : id, nombre, jpg, color
+# productos.csv separator MUST BE ;
 
 ptm="_product_template"
 ali="_atribute_line"
