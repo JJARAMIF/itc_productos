@@ -33,7 +33,7 @@ while IFS=";" read f1 f2 f3 f4 ; do
 		"ro") cad=$cad$ava"09,";;
 		"ve") cad=$cad$ava"10,";;
 		"am") cad=$cad$ava"11,";;
-		#*)    echo No hay el color $item;;
+		*)    echo No hay el color $item;;
 	    esac
 	done
 
