@@ -1,40 +1,47 @@
 #!/bin/bash
-# Usage : MakeBase64+.sh product_imagen.csv product_base64+.csv
-# product_imagen.csv columns are : externalID, jpg, nombre
-# product_imagen.csv separator MUST BE ;
+# Usage : variantes.sh product.variantes.csv variantes.csv
+# product.variantes.csv columns are : productID, nombre, jpg, color
+# variantes.csv separator MUST BE ;
 
+ptm="_product_template"
+ali="_atribute_line"
+aid="product_attribute_01"
+ava="product_attribute_value_01_"
 
-ext=".jpg"
-a="_product_template"
-b="_0"
-c="-0"
+echo \"product_tmpl_id/id\",\"name\",\"id\",\"attribute_id/id\",\"value_ids/id\" > $2
 
+while IFS=";" read f1 f2 f3 f4 ; do
 
-echo \"External ID\",\"product_tmpl_id/id\",\"name\",\"Image\" > $2
+    cad=""
 
-while IFS=";" read f1 f2 f3 ; do
+    if (( ${#f4} > 1 )); then
 
-	NUM=1
+	echo -n $f1$ptm,$f2,$f1$ali,$aid, >> $2
+	bakIFS=$IFS
+	IFS="-"
 
-	while [ $NUM -le 9 ]; do
-
-    		bb=$b$NUM
-    		cc=$c$NUM
-		file=$f2$cc$ext
-
-		if [ -f $file ]; then
-
-			# recopy external ID y Encabezados
-			echo -n  $f1$bb,$f1$a,$f2$cc, >> $2
-
-			# transforma a base64
-			cat $(echo ${f2}$cc | tr -d '\r' | tr -d '"').jpg | base64 --wrap=0 >> $2
-
-			#Carrier return at end of line
-			echo  >> $2
-    		fi
-
-    		let NUM=$NUM+1
+	for item in $f4 ; do
+	    case $item in
+		"ne") cad=$cad$ava"01,";;
+		"gr") cad=$cad$ava"02,";;
+		"pl") cad=$cad$ava"03,";;
+		"bl") cad=$cad$ava"04,";;
+		"do") cad=$cad$ava"05,";;
+		"az") cad=$cad$ava"06,";;
+		"li") cad=$cad$ava"07,";;
+		"pi") cad=$cad$ava"08,";;
+		"ro") cad=$cad$ava"09,";;
+		"ve") cad=$cad$ava"10,";;
+		"am") cad=$cad$ava"11,";;
+		#*)    echo No hay el color $item;;
+	    esac
 	done
+
+	IFS=$bakIFS
+
+	cad=${cad:0:${#cad}-1}
+    	echo $cad >> $2
+
+    fi
 
 done < $1
