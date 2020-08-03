@@ -3,7 +3,8 @@
 # productos.csv columns are : id, nombre, jpg, color
 # productos.csv separator MUST BE ;
 
-ptm="_product_template"
+#ptm="_product_template"
+ptm=""
 ali="_atribute_line_01"
 aid="product_attribute_01"
 ava="product_attribute_value_01_"
