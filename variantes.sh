@@ -34,6 +34,8 @@ while IFS=";" read f1 f2 f3 f4 ; do
 		    "ro") cad=$cad$ava"09,";;
 		    "ve") cad=$cad$ava"10,";;
 		    "am") cad=$cad$ava"11,";;
+		    "ci") cad=$cad$ava"12,";;
+		    "ma") cad=$cad$ava"13,";;
 		    *) echo No existe el color $item
 	    	esac
 	    fi
