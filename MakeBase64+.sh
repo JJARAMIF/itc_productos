@@ -5,7 +5,7 @@
 
 
 ext=".jpg"
-a="_product_template"
+a=""
 b="_0"
 c="-0"
 
